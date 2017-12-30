@@ -1,0 +1,1 @@
+I did all the algorithm work, and rereading into the file. Dealing with ArrayLists was my say, and this proved to be the most optimal decision for the best outcome. 
